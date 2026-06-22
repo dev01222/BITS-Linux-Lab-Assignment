@@ -1,0 +1,22 @@
+Linux Environment Verification Report
+
+Username:
+chand
+
+Groups: chand adm cdrom sudo dip plugdev users
+
+Current Shell: /bin/bash
+
+Current Working Directory: /home/chand
+
+Workspace Files and Directories: total 24
+drwxr-x--- 3 chand chand 4096 Feb 21 14:00 .
+drwxr-xr-x 3 root  root  4096 Feb 21 13:59 ..
+-rw-r--r-- 1 chand chand  220 Feb 21 13:59 .bash_logout
+-rw-r--r-- 1 chand chand 3771 Feb 21 13:59 .bashrc
+drwx------ 2 chand chand 4096 Feb 21 14:00 .cache
+-rw-rw-r-- 1 chand chand    0 Jun 22 08:04 .motd_shown
+-rw-r--r-- 1 chand chand  807 Feb 21 13:59 .profile
+
+Network Connectivity:
+Ping to google.com was successful
