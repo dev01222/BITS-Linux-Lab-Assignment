@@ -1,0 +1,20 @@
+Linux Environment Verification Report
+
+Username:
+chand
+
+Groups:
+(Paste output of groups command)
+
+Current Shell:
+(Paste output of echo $SHELL)
+
+Current Working Directory:
+(Paste output of pwd)
+
+Workspace Files and Directories:
+(Paste or summarize output of ls -la)
+
+Network Connectivity:
+Ping to google.com was successful.
+
