@@ -1,0 +1,22 @@
+Project Workspace Report
+
+Directory Structure Created:
+ProjectWorkspace/
+├── docs
+├── src
+└── reports
+
+Permissions Before Modification:
+project_plan.txt had default permissions assigned by the system.
+
+Permissions After Modification:
+project_plan.txt permissions changed to 600 (owner read/write only).
+
+Ownership Details:
+Owner: chand
+Group: chand
+
+Umask Value: 0022
+
+How Permissions Protect Project Data:
+Restricting permissions to 600 ensures that only the owner can read and modify the file. Other users cannot view or alter the contents. This helps protect sensitive project documentation and prevents unauthorized access.
